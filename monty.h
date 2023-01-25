@@ -16,10 +16,7 @@
 #include <string.h>
 #include <unistd.h>
 
-/* global macros */
-#define STACK 0
-#define QUEUE 1
-#define DELIMS " \n\t\a\b"
+
 
 
 /* operation tokenised keywords */
